@@ -44,7 +44,7 @@ header:
       filename: ""
     # Shop a call-to-action button in the top right?
     button:
-      enable: false
+      enable: true
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
     highlight_active_link: true
