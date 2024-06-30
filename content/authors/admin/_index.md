@@ -1,6 +1,6 @@
 ---
 # Display name
-title: John Karanja
+title: John Michael Karanja
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -21,7 +21,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Digital Skills Trainer | Freelance Writer & Tutor | Data Analyst
+role: |
+  - Digital Skills Trainer | Freelance Writer & Tutor | Data Analyst
+bio: Curious mind meets data enthusiast.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
